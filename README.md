@@ -19,7 +19,15 @@ The analysis is divided into several parts:
 
 ## Tools Used
 
-The analysis is performed using SQL for data extraction and manipulation.
+The analysis is performed using SQL for data extraction and manipulation and Power BI for visulizations.
+
+## Dashboard Overview
+
+**Home Page Report Dashboard**
+![image](https://github.com/Abhishek8124/Dominos-Sales-Analysis/assets/166630090/e29be789-7857-461e-97d5-a604b1243040)
+
+**Best/Worst Sellers Report Dashboard**
+![image](https://github.com/Abhishek8124/Dominos-Sales-Analysis/assets/166630090/91d69228-62e1-486a-aedf-e0c0e300cdca)
 
 ## KPI's Requirments
 
